@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman 
 title: 割り勘スライダー
+github:
+  is_project_page: false
